@@ -29,7 +29,7 @@ With its modular plugin system, HexaScan can easily be extended to perform custo
 ```bash
 pkg update && pkg upgrade
 pkg install python git
-git clone https://github.com/your-username/hexascan.git
+git clone https://github.com/Prasadsarkate/HexaScan
 cd hexascan/advanced_port_scanner
 pip install -r requirements.txt
 ```
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ```bash
 sudo apt update && sudo apt install -y python3 python3-pip git
-git clone https://github.com/your-username/hexascan.git
+git clone https://github.com/Prasadsarkate/HexaScan
 cd hexascan/advanced_port_scanner
 pip install -r requirements.txt
 ```
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 3. Open **Command Prompt / PowerShell**:  
 
 ```powershell
-git clone https://github.com/your-username/hexascan.git
+git clone https://github.com/Prasadsarkate/HexaScan
 cd hexascan\advanced_port_scanner
 pip install -r requirements.txt
 ```
