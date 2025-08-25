@@ -189,7 +189,7 @@ sudo apt update
 sudo apt install -y python3-venv
 
 # 2) Go to project folder
-cd HexaScan/advanced_port_scanner
+cd HexaScan
 
 # 3) Create a virtual environment ('.venv' folder)
 python3 -m venv .venv
@@ -219,7 +219,7 @@ deactivate
 
 ```powershell
 # 1) Go to project folder
-cd .\HexaScanadvanced_port_scanner
+cd .\HexaScana
 
 # 2) Create venv
 python -m venv .venv
@@ -252,7 +252,7 @@ Set-ExecutionPolicy RemoteSigned
 pkg update && pkg upgrade -y
 pkg install -y python git
 git clone https://github.com/your-username/HexaScan.git
-cd HexaScan/advanced_port_scanner
+cd HexaScan
 
 # Create & activate venv (no sudo in Termux)
 python -m venv .venv
