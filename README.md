@@ -14,7 +14,7 @@ With features like **fast scan, deep scan, plugin system, and web dashboard**, H
 ### 🔹 fast Scan Example
 ![Fast Scan](screenshot/fast_scan.jpg)
 
-### 🔹 Deep full Example
+### 🔹 full scan Example
 ![Full Scan](screenshot/full_scan.jpg)
 
 
