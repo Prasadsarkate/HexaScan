@@ -99,7 +99,7 @@ python hexascan.py target.com --mode fast
 Scans all ports (1–65535) with full plugin execution.  
 ⚠️ May take longer.  
 ```bash
-python hexascan.py target.com --mode deep
+python hexascan.py target.com --mode full
 ```
 
 ### 🔹 Save Output to JSON  
