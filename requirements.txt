@@ -1,0 +1,6 @@
+colorama
+prettytable
+flask
+requests
+# optional (for SYN and TTL probing)
+scapy
