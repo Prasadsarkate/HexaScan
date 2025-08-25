@@ -9,13 +9,13 @@ It is designed for **beginners and professionals** to quickly discover open port
 
 With features like **fast scan, deep scan, plugin system, and web dashboard**, HexaScan gives you the flexibility to run lightweight scans or full-scale assessments.  
 ### 🔹 normal Scan Example
-![Deep Scan](screenshots/normal_scan.jpg)
+![Normal Scan](screenshot/normal_scan.jpg)
 
 ### 🔹 fast Scan Example
-![Deep Scan](screenshots/fast_scan.jpg)
+![Fast Scan](screenshot/fast_scan.jpg)
 
 ### 🔹 Deep full Example
-![Deep Scan](screenshots/full_scan.jpg)
+![Full Scan](screenshot/full_scan.jpg)
 
 
 ---
