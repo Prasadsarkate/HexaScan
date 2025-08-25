@@ -54,7 +54,7 @@ With features like **fast scan, deep scan, plugin system, and web dashboard**, H
 pkg update && pkg upgrade
 pkg install python git
 git clone https://github.com/Prasadsarkate/HexaScan
-cd hexascan/advanced_port_scanner
+cd hexascan
 pip install -r requirements.txt
 ```
 
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```bash
 sudo apt update && sudo apt install -y python3 python3-pip git
 git clone https://github.com/Prasadsarkate/HexaScan
-cd hexascan/advanced_port_scanner
+cd hexascan
 pip install -r requirements.txt
 ```
 
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ```powershell
 git clone https://github.com/Prasadsarkate/HexaScan
-cd hexascan\advanced_port_scanner
+cd hexascan
 pip install -r requirements.txt
 ```
 
