@@ -210,7 +210,7 @@ deactivate
 
 ```powershell
 # 1) Go to project folder
-cd .\HexaScandvanced_port_scanner
+cd .\HexaScanadvanced_port_scanner
 
 # 2) Create venv
 python -m venv .venv
