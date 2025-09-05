@@ -55,6 +55,14 @@ With modes like **Normal, Fast, Full Scan** and a **Flask-based Web Dashboard**,
 - 🌐 **Cross-platform support** (Windows, Linux, Termux/Android)
 
 ---
+## 📸 Screenshots
+
+### 🔹 Reports
+<p align="center">
+  <img src="screenshot/fast_scan.jpg" width="30%"/>
+  <img src="screenshot/normal_scan.jpg" width="30%"/>
+  <img src="screenshot/full_scan.jpg" width="30%"/>
+</p>
 
 ## 📥 Installation
 
